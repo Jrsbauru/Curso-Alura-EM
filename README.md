@@ -6,6 +6,7 @@ Estamos desenvolvendo linguagem Java Script.
 
 Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos.
 
+![cat-funny-cat](https://github.com/Jrsbauru/Curso-Alura-EM/assets/168696816/569c943b-5f7f-4987-89dd-8dccc828d4b9)
 
-![image](https://github.com/Jrsbauru/Curso-Alura-EM/assets/168696816/88d96888-e42e-417f-875a-f44eea14bf19)
+
 
