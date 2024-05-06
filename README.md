@@ -4,6 +4,8 @@ Repositório de projetos Alura no Ensino Médio.
 
 Estamos desenvolvendo linguagem Java Script.
 
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos.
 
-![https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif]link 
+
+![image](https://github.com/Jrsbauru/Curso-Alura-EM/assets/168696816/88d96888-e42e-417f-875a-f44eea14bf19)
+
